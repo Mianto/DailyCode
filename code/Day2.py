@@ -15,7 +15,7 @@ def solve(arr):
         li.append(0)
         mul *= arr[i]
     
-    for i in range(len(arr)):
+    for i in range(len (arr)):
         li[i] = mul // arr[i]
     
     return li
