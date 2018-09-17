@@ -1,2 +1,5 @@
-Repository contains code for the daily challege as a part of 100 Days of Code.
+# Daily Coding Problem
+---
+Repository contains solution for the [Daily Coding Problem])(https://www.dailycodingproblem.com/)
+
 
